@@ -1,3 +1,72 @@
 {
-  "books": []
+  "books": [
+    {
+      "title": "The Phantom Menace",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	1
+    },
+    {
+      "title": "Attack of the Clones",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	2
+    },
+    {
+      "title": "Revenge of the Sith",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	3
+    },
+    {
+      "title": "A New Hope",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	4
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	5
+    },
+    {
+      "title": "Return of the Jedi",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	6
+    },
+    {
+      "title": "The Force Awakens",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	7
+    },
+    {
+      "title": "The Last Jedi",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	8
+    },
+    {
+      "title": "Episode IX",
+      "author": "George Lucas",
+      "series": "Star Wars",
+      "number":	9
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkein",
+      "series": "",
+      "number":	null
+    },
+    {
+      "title": "The Dark Crystal",
+      "author": "Jim Henson"
+    },
+    {
+      "title": "American Gods",
+      "author": "Neil Gaiman"
+    }
+  ]
 }
